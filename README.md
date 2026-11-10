@@ -1,0 +1,2 @@
+# Gencut
+Only for gen 
